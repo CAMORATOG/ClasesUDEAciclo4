@@ -1,0 +1,23 @@
+.blockPadre{
+ text-align: center;
+ margin-top: 10%;
+}
+
+.blockHijo{
+    padding: 2%;
+}
+
+body {
+    color: black;
+    background-color: aquamarine;
+}
+
+button {
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    border-radius: 10px;
+    padding: 1%;
+    border-radius: 10px;
+
+}
