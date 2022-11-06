@@ -4,12 +4,13 @@
 }
 
 .blockHijo{
-    padding: 2%;
+    padding: 1%;
 }
 
 body {
     color: black;
     background-color: aquamarine;
+    font-size: 20px;
 }
 
 button {
